@@ -1,4 +1,4 @@
-tensorflow
-matplotlib
-kagglehub
-PIL
+tensorflow=2.1.0
+matplotlib=3.10.0
+kagglehub=0.3.13
+kaggle=1.7.4.5
