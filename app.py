@@ -11,7 +11,7 @@ st.title("🐱🐶 Cat vs Dog Classifier")
 uploaded_file = st.file_uploader("Upload an image...", type=["jpg", "jpeg", "png"])
 
 def preprocess(img):
-    img = img.resize((256, 256))
+    img = img.resize((128, 128))
     img = np.array(img) / 255.0
     img = np.expand_dims(img, axis=0)
     return img
