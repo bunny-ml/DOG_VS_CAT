@@ -1,5 +1,5 @@
-tensorflow=2.19.0
-matplotlib=3.10.0
-kagglehub=0.3.13
-kaggle=1.7.4.5
+tensorflow
+matplotlib
+kagglehub
+kaggle
 streamlit
